@@ -97,8 +97,7 @@ color: #2e2f42 ;
     letter-spacing: 0.02em;
     color: #2e2f42;
     display: flex;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    
      
      
 }
@@ -109,6 +108,8 @@ color: #2e2f42 ;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-menu-link:hover {
@@ -230,7 +231,7 @@ color: #404bbf;
   }
 
 
-.feature-title {
+/*!.feature-title {
 font-weight: 700;
 font-size: 36px;
 line-height: 111%;
@@ -239,7 +240,7 @@ text-align: center;
 color: #2e2f42;
 margin-bottom: 72px;
 
-}
+} */
 
 .feature-list {
     display: flex;
