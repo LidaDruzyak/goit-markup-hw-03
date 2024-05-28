@@ -40,8 +40,6 @@ margin: 0 auto;
 }
 
 .header {
-  padding-top: 24px;
-    padding-bottom: 24px;
     border-bottom: 1px solid #e7e9fc;
 
 }
@@ -303,7 +301,6 @@ width: calc((100% - 3 * 24px) / 4);
 
 .team-image {
     margin: 0 auto;
-    margin-bottom: 32px;
 }
 
 .team-subtitle {
@@ -323,7 +320,7 @@ line-height: 150%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
-padding-bottom: 32px;
+
 
 }
 
@@ -337,7 +334,6 @@ img {
 }
 
 .portfolio {
-    background-color: #F4F4FD;
     padding-top: 120px;
     padding-bottom: 120px;
 }
